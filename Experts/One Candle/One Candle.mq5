@@ -1,14 +1,14 @@
 /*
 
    One Candle
-   
+
    Code:
    Copyright 2014-2025, Orchard Forex
    https://orchardforex.com
 
-	Strategy:
-	https://www.youtube.com/watch?v=yhC8pEkR-Wk
-	
+   Strategy:
+   https://www.youtube.com/watch?v=yhC8pEkR-Wk
+
 */
 
 #property copyright "Copyright 2014-2025, Orchard Forex"
